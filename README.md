@@ -2,9 +2,9 @@
 
 # Reboxed
 
-**Give old cardboard a second life.** Reboxed is a browser app (one HTML file) that generates SVG files for laser-cutting boxes with an xTool D1 Pro 10W, built around reusing flattened boxes (e.g. HelloFresh) as cardboard – including reusing their existing crease lines.
+**Give old cardboard a second life.** Reboxed is a browser app (one HTML file) that generates SVG files for laser-cutting boxes, built around reusing flattened boxes (e.g. HelloFresh) as cardboard – including reusing their existing crease lines.
 
-**Gi gammel papp nytt liv.** Reboxed er en nettleserapp (én HTML-fil) som lager SVG-filer til laserkutting av esker med xTool D1 Pro 10W, bygget rundt å bruke utbrettede esker (f.eks. HelloFresh) som papp – også med gjenbruk av eksisterende brettelinjer.
+**Gi gammel papp nytt liv.** Reboxed er en nettleserapp (én HTML-fil) som lager SVG-filer til laserkutting av esker, bygget rundt å bruke utbrettede esker (f.eks. HelloFresh) som papp – også med gjenbruk av eksisterende brettelinjer.
 
 ## Use / Bruk
 
